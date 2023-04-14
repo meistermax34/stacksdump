@@ -2,7 +2,6 @@ Blocks =========================================================================
 no match 781277 0000000000000000000388f42000fa901c01f2bfae36042bbae133ee430e6485 000000000000000000014bdfbf46969d9b1f290ad21f27f263e14881ef595627
 missing consensus hash 6ce394ce0aa26b9f32d7227e9b94f545afd8a0ad
 missing consensus hash 6ce394ce0aa26b9f32d7227e9b94f545afd8a0ad
-783889 1 783888 100842  1,000.00 9,627, 400 br7742 s:b947b73a95 p:1af67c10a4 c:7a1b09ce54 i:992310fa9c b:00000000000000000000b0527     [100.0]SP2ZJCHNRQ*
 783890 2 783888 100842> 1,000.00 23,135 3,268,000 br7743 s:803e2973b9 p:1af67c10a4 c:6e0de49938 i:744ca0fb6a b:00000000000000000004f5656     [9.5]SP12YD70M7 [15.3]SP1A80Y63C [12.2]SP1G7E460C [7.6]SP2KVQZA2F [13.8]SP2XZPSSNR [16.8]SP3X32ZR3N*[10.0]SPFC8JCHPF [0.1]SPN85R0W5Z [14.6]SPR9D8R423 
 783891 1 783890 100843> 1,000.00 7,742, 2,818,000 br7743 s:09c7e4fd09 p:803e2973b9 c:3cc92b0b59 i:98f51c6cf6 b:00000000000000000001585c1 @@  [11.0]SP12YD70M7 [17.7]SP1A80Y63C [14.2]SP1G7E460C [8.9]SP2KVQZA2F [19.5]SP3X32ZR3N [11.6]SPFC8JCHPF [0.1]SPN85R0W5Z [16.9]SPR9D8R423*
 783892 1 783891 100844  1,000.00 2,263, 400 br7743 s:d767048dc6 p:09c7e4fd09 c:9817f32b1f i:82a3dda862 b:00000000000000000000c195c @@  [100.0]SP2ZJCHNRQ*
@@ -1517,7 +1516,7 @@ missing consensus hash 6ce394ce0aa26b9f32d7227e9b94f545afd8a0ad
 │$│SP25P61C1DJ3P4TMTRJWQ5HE3ESK3PBTXS1EKYT43│1Di1YoMov6Ua3gPedfQz7TkP6iTLqbPUzi│   31/41/219│14.16%│18.72%│ 60,975,000│250,000│ 33,000.00│ 33,000.00│ 24,000.00│ 9,000.00│11.60%│     8.49│
 │$│ SPR9D8R423S23PV0ZSVYGQ182AKSXE6S5NFXYN1S│15RutdpjRxx2fAdKepoWkNWfS4uAFT6jdg│141/142/1055│13.36%│13.46%│314,295,000│207,000│159,000.00│159,000.00│149,000.00│10,000.00│12.18%│     9.43│
 │$│  SPN85R0W5Z87161WKR0KC5PDNBW6TY42BC8FJ07│ 182Qrjkj4ag5twCP1MTuTKmJ1sDhs8s7i│  16/61/1208│ 1.32%│ 5.05%│  2,952,000│  2,000│ 18,000.00│ 18,000.00│ 17,000.00│ 1,000.00│ 0.11%│     0.94│
-│$│SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│    17/60/64│26.56%│93.75%│     25,400│    400│ 19,000.00│ 19,000.00│  8,000.00│11,000.00│ 0.70%│    10.38│
+│$│SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│    17/59/63│26.98%│93.65%│     25,000│    400│ 19,000.00│ 19,000.00│  8,000.00│11,000.00│ 0.69%│    10.38│
 └─┴─────────────────────────────────────────┴──────────────────────────────────┴────────────┴──────┴──────┴───────────┴───────┴──────────┴──────────┴──────────┴─────────┴──────┴─────────┘
 Statistics ========================================================================================================================
 miners (last block): 1
@@ -1525,8 +1524,8 @@ miners (overall): 270
 miners (won rewards): 10
 total commit (last block): 400 sats
 block reward (last block): 1,000.00 STX
-btc blocks: 1502
+btc blocks: 1501
 empty btc blocks: 178
 actual_win_total: 1213
-orphaned blocks: 111
+orphaned blocks: 110
 incorrect blocks: 0
