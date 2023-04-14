@@ -9,19 +9,19 @@
 │$│ SPFC8JCHPFWG3QQZEVRQAJCM2ZF3QVNZGKYPGB6T│13ogR3PP3dUNbP62CBaxtdygYjPzUc17sb│ 126/126/950│13.26%│13.26%│311,600,000│328,000│152,000.00│152,000.00│147,000.00│ 5,000.00│13.06%│     4.59│
 │$│SP12YD70M771KXS8QECEWH5HQXNYT5N4DX1MBH4EA│17NbtH8FxPVkJ6Fy96QQGafuEhB2hn21sv│   99/99/910│10.88%│10.88%│283,010,000│311,000│117,000.00│117,000.00│111,000.00│ 6,000.00│12.16%│     5.50│
 │$│ SP2KVQZA2FQNH90SNC9VQQQQH5ZWYANC08EZQQ14│ 1UiW61F9xnBnnC1J69aPJhFm3ZXvZEkCm│200/201/1105│18.10%│18.19%│315,610,000│255,000│227,000.00│227,000.00│218,000.00│ 9,000.00│12.23%│     8.26│
-│$│SP25P61C1DJ3P4TMTRJWQ5HE3ESK3PBTXS1EKYT43│1Di1YoMov6Ua3gPedfQz7TkP6iTLqbPUzi│   28/38/178│15.73%│21.35%│ 50,725,000│250,000│ 30,000.00│ 30,000.00│ 10,000.00│20,000.00│11.97%│    18.35│
+│$│SP25P61C1DJ3P4TMTRJWQ5HE3ESK3PBTXS1EKYT43│1Di1YoMov6Ua3gPedfQz7TkP6iTLqbPUzi│   28/38/178│15.73%│21.35%│ 50,725,000│250,000│ 30,000.00│ 30,000.00│ 11,000.00│19,000.00│11.97%│    17.43│
 │$│ SPR9D8R423S23PV0ZSVYGQ182AKSXE6S5NFXYN1S│15RutdpjRxx2fAdKepoWkNWfS4uAFT6jdg│142/143/1051│13.51%│13.61%│323,997,000│207,000│160,000.00│160,000.00│148,000.00│12,000.00│12.53%│    11.01│
 │$│  SPN85R0W5Z87161WKR0KC5PDNBW6TY42BC8FJ07│ 182Qrjkj4ag5twCP1MTuTKmJ1sDhs8s7i│  15/60/1217│ 1.23%│ 4.93%│  3,114,000│  2,000│ 17,000.00│ 17,000.00│ 17,000.00│         │ 0.12%│         │
-│ │SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│    14/55/58│24.14%│94.83%│     23,000│    400│ 16,000.00│ 16,000.00│ 11,000.00│ 5,000.00│ 0.70%│     4.59│
+│$│SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│    15/56/59│25.42%│94.92%│     23,400│    400│ 17,000.00│ 17,000.00│ 11,000.00│ 6,000.00│ 0.71%│     5.50│
 └─┴─────────────────────────────────────────┴──────────────────────────────────┴────────────┴──────┴──────┴───────────┴───────┴──────────┴──────────┴──────────┴─────────┴──────┴─────────┘
 Statistics ========================================================================================================================
-miners (last block): 9
+miners (last block): 1
 miners (overall): 270
 miners (won rewards): 11
-total commit (last block): 2,803,000 sats
+total commit (last block): 400 sats
 block reward (last block): 1,000.00 STX
 btc blocks: 1501
-empty btc blocks: 179
-actual_win_total: 1199
+empty btc blocks: 178
+actual_win_total: 1200
 orphaned blocks: 122
 incorrect blocks: 1
