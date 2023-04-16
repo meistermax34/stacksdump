@@ -2,7 +2,6 @@ Blocks =========================================================================
 no match 781277 0000000000000000000388f42000fa901c01f2bfae36042bbae133ee430e6485 000000000000000000014bdfbf46969d9b1f290ad21f27f263e14881ef595627
 missing consensus hash 6ce394ce0aa26b9f32d7227e9b94f545afd8a0ad
 missing consensus hash 6ce394ce0aa26b9f32d7227e9b94f545afd8a0ad
-784198 ?    -            -       -        -                -            -            -            -       b:00000000000000000005c96b8     
 784199 2 784197 101080> 2,000.00 3,047, 252,000 br7783 s:2a29dcea65 p:155b58bc00 c:bb298fc59f i:a77701085f b:00000000000000000004edfeb     [99.2]SP2KVQZA2F*[0.8]SPN85R0W5Z 
 784200 1 784199 101081> 1,000.00 492,67 1,792,160 br7783 s:f639f405e6 p:2a29dcea65 c:ba93eb49b2 i:709c745dfc b:000000000000000000046bca5 @@  [17.4]SP12YD70M7 [27.9]SP1A80Y63C*[22.3]SP1G7E460C [13.9]SP2KVQZA2F [0.1]SP2W1YW0QY [18.3]SPFC8JCHPF [0.1]SPN85R0W5Z 
 784201 1 784200 101082> 1,000.00 1,705, 2,619,160 br7783 s:3ec9dd3dca p:f639f405e6 c:9575fdc51e i:a126471113 b:00000000000000000001865c4 @@  [11.9]SP12YD70M7 [19.1]SP1A80Y63C [15.3]SP1G7E460C [9.5]SP2KVQZA2F*[0.0]SP2W1YW0QY [21.0]SP3X32ZR3N [12.5]SPFC8JCHPF [0.1]SPN85R0W5Z [10.6]SPR9D8R423 
@@ -1527,8 +1526,8 @@ miners (overall): 270
 miners (won rewards): 10
 total commit (last block): 2,712,200 sats
 block reward (last block): 2,000.00 STX
-btc blocks: 1502
-empty btc blocks: 181
+btc blocks: 1501
+empty btc blocks: 180
 actual_win_total: 1233
 orphaned blocks: 88
 incorrect blocks: 0
