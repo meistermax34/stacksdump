@@ -2,24 +2,24 @@
 │ │                              STX address│                       BTC address│actual wins/│actual│ won %│       paid│   last│  lifetime│   rewards│   matured│  pending│ theo.│ share of│
 │ │                                         │                                  │ total wins/│ win %│      │   satoshis│   paid│   rewards│          │   rewards│  rewards│ win %│ pending │
 │ │                                         │                                  │ total mined│      │      │           │       │          │          │          │         │      │rewards %│
-│$│SP3X32ZR3N9RK1FE1A9J8CWWQ5EYRK525GM6P12AE│1PouE1buRc4LwQhJTe72bf5G32NFwCkRdL│ 231/233/837│27.60%│27.84%│452,550,000│450,000│261,000.00│261,000.00│232,000.00│29,000.00│26.37%│    23.02│
-│ │SP1A80Y63CPEG8JFXYCG3WQEV7HC4KBK91XYC2RC6│18hofVCQv8cMDpqDNqSXyrUDffq7MKLxiu│ 145/151/708│20.48%│21.33%│350,430,000│410,000│158,000.00│158,000.00│158,000.00│         │21.39%│         │
-│$│SP1G7E460C2NX1GQ3YRZKCXAADMYY20TKV0XD1R0K│19o4WEBKuAu2bCjWfuxRbCPSfWy5WnASZZ│ 157/157/781│20.10%│20.10%│312,400,000│400,000│176,000.00│176,000.00│150,000.00│26,000.00│19.44%│    20.63│
-│$│SP12YD70M771KXS8QECEWH5HQXNYT5N4DX1MBH4EA│17NbtH8FxPVkJ6Fy96QQGafuEhB2hn21sv│   91/94/684│13.30%│13.74%│226,424,000│311,000│101,000.00│101,000.00│100,000.00│ 1,000.00│15.63%│     0.79│
-│$│ SP2KVQZA2FQNH90SNC9VQQQQH5ZWYANC08EZQQ14│ 1UiW61F9xnBnnC1J69aPJhFm3ZXvZEkCm│233/236/1013│23.00%│23.30%│258,315,000│255,000│265,000.00│265,000.00│236,000.00│29,000.00│13.79%│    23.02│
-│ │ SPFC8JCHPFWG3QQZEVRQAJCM2ZF3QVNZGKYPGB6T│13ogR3PP3dUNbP62CBaxtdygYjPzUc17sb│112/116/1078│10.39%│10.76%│256,564,000│238,000│115,000.00│115,000.00│115,000.00│         │ 6.78%│         │
-│$│SP25P61C1DJ3P4TMTRJWQ5HE3ESK3PBTXS1EKYT43│1Di1YoMov6Ua3gPedfQz7TkP6iTLqbPUzi│  94/101/609│15.44%│16.58%│ 60,900,000│100,000│110,000.00│110,000.00│ 74,000.00│36,000.00│ 5.98%│    28.57│
-│$│SP2PDX6JQ4NN2Z7J91YJKWAAHBRHWGN5ETZ403FXH│1Gm3tiU3Rsm3pPpTnx3d3A54nug16TSWmZ│ 54/122/1180│ 4.58%│10.34%│  5,472,000│  2,000│ 59,000.00│ 59,000.00│ 54,000.00│ 5,000.00│ 0.29%│     3.97│
-│ │SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│  42/137/146│28.77%│93.84%│     58,400│    400│ 46,000.00│ 46,000.00│ 46,000.00│         │ 4.53%│         │
+│$│SP3X32ZR3N9RK1FE1A9J8CWWQ5EYRK525GM6P12AE│1PouE1buRc4LwQhJTe72bf5G32NFwCkRdL│ 231/233/837│27.60%│27.84%│452,350,000│450,000│261,000.00│261,000.00│232,000.00│29,000.00│26.38%│    23.20│
+│$│SP1A80Y63CPEG8JFXYCG3WQEV7HC4KBK91XYC2RC6│18hofVCQv8cMDpqDNqSXyrUDffq7MKLxiu│ 144/150/708│20.34%│21.19%│350,250,000│410,000│157,000.00│157,000.00│157,000.00│         │21.42%│         │
+│$│SP1G7E460C2NX1GQ3YRZKCXAADMYY20TKV0XD1R0K│19o4WEBKuAu2bCjWfuxRbCPSfWy5WnASZZ│ 159/159/781│20.36%│20.36%│312,400,000│400,000│179,000.00│179,000.00│151,000.00│28,000.00│19.46%│    22.40│
+│$│SP12YD70M771KXS8QECEWH5HQXNYT5N4DX1MBH4EA│17NbtH8FxPVkJ6Fy96QQGafuEhB2hn21sv│   91/94/684│13.30%│13.74%│226,224,000│311,000│101,000.00│101,000.00│100,000.00│ 1,000.00│15.63%│     0.80│
+│$│ SP2KVQZA2FQNH90SNC9VQQQQH5ZWYANC08EZQQ14│ 1UiW61F9xnBnnC1J69aPJhFm3ZXvZEkCm│233/236/1013│23.00%│23.30%│258,315,000│255,000│265,000.00│265,000.00│240,000.00│25,000.00│13.80%│    20.00│
+│ │ SPFC8JCHPFWG3QQZEVRQAJCM2ZF3QVNZGKYPGB6T│13ogR3PP3dUNbP62CBaxtdygYjPzUc17sb│112/116/1076│10.41%│10.78%│256,088,000│238,000│115,000.00│115,000.00│115,000.00│         │ 6.78%│         │
+│$│SP25P61C1DJ3P4TMTRJWQ5HE3ESK3PBTXS1EKYT43│1Di1YoMov6Ua3gPedfQz7TkP6iTLqbPUzi│  95/102/612│15.52%│16.67%│ 61,200,000│100,000│111,000.00│111,000.00│ 74,000.00│37,000.00│ 5.99%│    29.60│
+│$│SP2PDX6JQ4NN2Z7J91YJKWAAHBRHWGN5ETZ403FXH│1Gm3tiU3Rsm3pPpTnx3d3A54nug16TSWmZ│ 53/121/1180│ 4.49%│10.25%│  5,472,000│  2,000│ 58,000.00│ 58,000.00│ 53,000.00│ 5,000.00│ 0.29%│     4.00│
+│ │SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│  41/136/145│28.28%│93.79%│     58,000│    400│ 44,000.00│ 44,000.00│ 44,000.00│         │ 4.50%│         │
 └─┴─────────────────────────────────────────┴──────────────────────────────────┴────────────┴──────┴──────┴───────────┴───────┴──────────┴──────────┴──────────┴─────────┴──────┴─────────┘
 Statistics ========================================================================================================================
-miners (last block): 5
+miners (last block): 2
 miners (overall): 272
 miners (won rewards): 9
-total commit (last block): 1,207,000 sats
-block reward (last block): 1,000.00 STX
+total commit (last block): 820,000 sats
+block reward (last block): 0.00 STX
 btc blocks: 1501
 empty btc blocks: 153
 actual_win_total: 1159
-orphaned blocks: 187
-incorrect blocks: 2
+orphaned blocks: 186
+incorrect blocks: 3
