@@ -15,10 +15,10 @@
 │$│SP25P61C1DJ3P4TMTRJWQ5HE3ESK3PBTXS1EKYT43│1Di1YoMov6Ua3gPedfQz7TkP6iTLqbPUzi│  99/107/642│15.42%│16.67%│ 64,200,000│100,000│115,000.00│115,000.00│110,000.00│ 5,000.00│ 6.07%│     3.70│
 └─┴─────────────────────────────────────────┴──────────────────────────────────┴────────────┴──────┴──────┴───────────┴───────┴──────────┴──────────┴──────────┴─────────┴──────┴─────────┘
 Statistics ========================================================================================================================
-miners (last block): 1
+miners (last block): 0
 miners (overall): 274
 miners (won rewards): 11
-total commit (last block): 100,000 sats
+total commit (last block): 0 sats
 block reward (last block): 0.00 STX
 btc blocks: 1501
 empty btc blocks: 179
