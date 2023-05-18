@@ -8,8 +8,6 @@ missing consensus hash 55fa43af0cc41f3e4cc451f7f090539775f0cec4
 missing consensus hash 6ce394ce0aa26b9f32d7227e9b94f545afd8a0ad
 missing consensus hash cb350188ec8d22f6b739ed51dc699a8da9a97bf4
 missing consensus hash 55fa43af0cc41f3e4cc451f7f090539775f0cec4
-788831 ?    -            -       -        -                -            -            -            -       b:000000000000000000000566d     
-788832 ?    -            -       -        -                -            -            -            -       b:00000000000000000004379f9     
 788833 5 788828          -       -    1,271,000       s:09500cd5fd      -       c:476b494dbf i:d9a6f3cae9 b:00000000000000000000856f8     [48.1]SP2DW8DZXJ*[51.9]SP36NPSB6P 
 788834 ?    -            -       -        -                -            -            -            -       b:00000000000000000002ce9a6     
 788835 7 788828          -       -    610,000       s:5f423a6e27      -       c:9bd8f165fe i:ef51efd4f3 b:0000000000000000000343770     [100.0]SP1A80Y63C*
@@ -1509,4 +1507,5 @@ missing consensus hash 55fa43af0cc41f3e4cc451f7f090539775f0cec4
 790329 1 790328 105993> 1,000.00 4,434, 1,873,000 br8299 s:76290c1228 p:b13617b577 c:e88d32cd27 i:0832d85814 b:000000000000000000037f3c8 @@  [21.4]SP1A80Y63C [32.6]SP2DW8DZXJ [18.7]SP2KVQZA2F [0.1]SP2PDX6JQ4 [27.2]SP36NPSB6P*
 790330 1 790329 105994  1,000.00 27,501 400 br8299 s:e44b708505 p:76290c1228 c:3a8cf37a2e i:90e49f4535 b:0000000000000000000554007 @@  [100.0]SP2ZJCHNRQ*
 790331 2 790329 105994> 1,000.00 20,922 352,000 br8300 s:0d0f4d1884 p:76290c1228 c:b1201c0677 i:1005f70de4 b:0000000000000000000291873     [99.4]SP2KVQZA2F*[0.6]SP2PDX6JQ4 
->>> WARNING: there are currently 2 forks of equal length suitable to continue as the canonical fork
+790332 1 790331 105995> 1,000.00 9,028, 1,871,000 br8300 s:fcf437afa1 p:0d0f4d1884 c:67ba9c4146 i:862822b21b b:000000000000000000055861d @+  [21.4]SP1A80Y63C [32.7]SP2DW8DZXJ [18.7]SP2KVQZA2F*[27.3]SP36NPSB6P 
+790333 1 790332 105996> 1,000.00 12,705 2,000 br8300 s:86ff2039f5 p:fcf437afa1 c:3de3a6027d i:8fde10e5bf b:00000000000000000004a59f3 @@  [100.0]SP2PDX6JQ4*
