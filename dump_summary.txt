@@ -2,23 +2,23 @@
 │ │                              STX address│                       BTC address│actual wins/│actual│ won %│       paid│   last│  lifetime│   rewards│   matured│  pending│ theo.│ share of│
 │ │                                         │                                  │ total wins/│ win %│      │   satoshis│   paid│   rewards│          │   rewards│  rewards│ win %│ pending │
 │ │                                         │                                  │ total mined│      │      │           │       │          │          │          │         │      │rewards %│
-│$│SP2DW8DZXJCYDEVX0NN9R1A203GWHCSMGBQS3A64X│1FCcoFSKWvNyhjazNvVdLLw8mGkGdcRMux│ 308/310/890│34.61%│34.83%│543,790,000│611,000│344,000.00│344,000.00│317,000.00│27,000.00│37.36%│    25.96│
-│$│SP36NPSB6PHAX0GTNH0MZD4SEVAQ5V3RATCJ0HKSZ│1Kiq1dyVBzYLWGrBPWjChvKyzB2H95x5RJ│ 295/301/929│31.75%│32.40%│482,190,000│510,000│322,000.00│322,000.00│304,000.00│18,000.00│32.29%│    17.31│
-│$│SP1A80Y63CPEG8JFXYCG3WQEV7HC4KBK91XYC2RC6│18hofVCQv8cMDpqDNqSXyrUDffq7MKLxiu│ 270/279/946│28.54%│29.49%│384,400,000│400,000│297,000.00│297,000.00│282,000.00│15,000.00│25.61%│    14.42│
-│$│ SP2KVQZA2FQNH90SNC9VQQQQH5ZWYANC08EZQQ14│ 1UiW61F9xnBnnC1J69aPJhFm3ZXvZEkCm│ 121/123/448│27.01%│27.46%│135,940,000│350,000│132,000.00│132,000.00│ 99,000.00│33,000.00│19.50%│    31.73│
+│$│SP2DW8DZXJCYDEVX0NN9R1A203GWHCSMGBQS3A64X│1FCcoFSKWvNyhjazNvVdLLw8mGkGdcRMux│ 309/311/890│34.72%│34.94%│543,790,000│611,000│346,000.00│346,000.00│316,000.00│30,000.00│37.36%│    28.57│
+│$│SP36NPSB6PHAX0GTNH0MZD4SEVAQ5V3RATCJ0HKSZ│1Kiq1dyVBzYLWGrBPWjChvKyzB2H95x5RJ│ 294/300/927│31.72%│32.36%│480,420,000│510,000│321,000.00│321,000.00│303,000.00│18,000.00│32.23%│    17.14│
+│$│SP1A80Y63CPEG8JFXYCG3WQEV7HC4KBK91XYC2RC6│18hofVCQv8cMDpqDNqSXyrUDffq7MKLxiu│ 268/277/943│28.42%│29.37%│382,600,000│400,000│295,000.00│295,000.00│280,000.00│15,000.00│25.54%│    14.29│
+│$│ SP2KVQZA2FQNH90SNC9VQQQQH5ZWYANC08EZQQ14│ 1UiW61F9xnBnnC1J69aPJhFm3ZXvZEkCm│ 121/123/451│26.83%│27.27%│136,990,000│350,000│132,000.00│132,000.00│101,000.00│31,000.00│19.49%│    29.52│
 │ │ SP59S78VN5821KV025FWBGX0TKD70GB5PN4Y2HRD│ 1y7NdVZi1UXQ6qmbRgQ7m4WCbSGK66jXQ│     6/12/80│ 7.50%│15.00%│ 13,800,000│200,000│  6,000.00│  6,000.00│  6,000.00│         │11.30%│         │
-│ │SP25P61C1DJ3P4TMTRJWQ5HE3ESK3PBTXS1EKYT43│1Di1YoMov6Ua3gPedfQz7TkP6iTLqbPUzi│   61/69/301│20.27%│22.92%│ 45,150,000│150,000│ 75,000.00│ 75,000.00│ 75,000.00│         │10.88%│         │
-│$│SP2PDX6JQ4NN2Z7J91YJKWAAHBRHWGN5ETZ403FXH│1Gm3tiU3Rsm3pPpTnx3d3A54nug16TSWmZ│  53/119/879│ 6.03%│13.54%│  7,974,000│  2,000│ 57,000.00│ 57,000.00│ 50,000.00│ 7,000.00│ 0.69%│     6.73│
-│ │SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│ 106/149/158│67.09%│94.30%│     63,200│    400│116,000.00│116,000.00│112,000.00│ 4,000.00│ 2.17%│     3.85│
+│ │SP25P61C1DJ3P4TMTRJWQ5HE3ESK3PBTXS1EKYT43│1Di1YoMov6Ua3gPedfQz7TkP6iTLqbPUzi│   61/68/296│20.61%│22.97%│ 44,400,000│150,000│ 75,000.00│ 75,000.00│ 75,000.00│         │10.92%│         │
+│$│SP2PDX6JQ4NN2Z7J91YJKWAAHBRHWGN5ETZ403FXH│1Gm3tiU3Rsm3pPpTnx3d3A54nug16TSWmZ│  54/120/883│ 6.12%│13.59%│  7,982,000│  2,000│ 58,000.00│ 58,000.00│ 50,000.00│ 8,000.00│ 0.68%│     7.62│
+│ │SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│ 106/149/158│67.09%│94.30%│     63,200│    400│116,000.00│116,000.00│113,000.00│ 3,000.00│ 2.17%│     2.86│
 └─┴─────────────────────────────────────────┴──────────────────────────────────┴────────────┴──────┴──────┴───────────┴───────┴──────────┴──────────┴──────────┴─────────┴──────┴─────────┘
 Statistics ========================================================================================================================
-miners (last block): 3
+miners (last block): 0
 miners (overall): 274
 miners (won rewards): 8
-total commit (last block): 862,000 sats
-block reward (last block): 1,000.00 STX
-btc blocks: 1501
-empty btc blocks: 139
-actual_win_total: 1220
-orphaned blocks: 140
+total commit (last block): 0 sats
+block reward (last block): 0.00 STX
+btc blocks: 1502
+empty btc blocks: 142
+actual_win_total: 1219
+orphaned blocks: 139
 incorrect blocks: 2
