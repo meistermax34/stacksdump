@@ -2,23 +2,23 @@
 │ │                              STX address│                       BTC address│actual wins/│actual│ won %│       paid│   last│  lifetime│   rewards│   matured│  pending│ theo.│ share of│
 │ │                                         │                                  │ total wins/│ win %│      │   satoshis│   paid│   rewards│          │   rewards│  rewards│ win %│ pending │
 │ │                                         │                                  │ total mined│      │      │           │       │          │          │          │         │      │rewards %│
-│$│SP2DW8DZXJCYDEVX0NN9R1A203GWHCSMGBQS3A64X│1FCcoFSKWvNyhjazNvVdLLw8mGkGdcRMux│ 310/312/901│34.41%│34.63%│550,511,000│611,000│345,000.00│345,000.00│322,000.00│23,000.00│37.28%│    21.50│
-│$│SP36NPSB6PHAX0GTNH0MZD4SEVAQ5V3RATCJ0HKSZ│1Kiq1dyVBzYLWGrBPWjChvKyzB2H95x5RJ│ 306/312/943│32.45%│33.09%│496,980,000│510,000│335,000.00│335,000.00│310,000.00│25,000.00│32.73%│    23.36│
-│$│SP1A80Y63CPEG8JFXYCG3WQEV7HC4KBK91XYC2RC6│18hofVCQv8cMDpqDNqSXyrUDffq7MKLxiu│ 282/291/959│29.41%│30.34%│394,700,000│400,000│310,000.00│310,000.00│291,000.00│19,000.00│25.87%│    17.76│
-│$│ SP2KVQZA2FQNH90SNC9VQQQQH5ZWYANC08EZQQ14│ 1UiW61F9xnBnnC1J69aPJhFm3ZXvZEkCm│ 102/104/402│25.37%│25.87%│119,840,000│350,000│112,000.00│112,000.00│ 90,000.00│22,000.00│19.09%│    20.56│
+│$│SP2DW8DZXJCYDEVX0NN9R1A203GWHCSMGBQS3A64X│1FCcoFSKWvNyhjazNvVdLLw8mGkGdcRMux│ 312/314/902│34.59%│34.81%│551,122,000│611,000│347,000.00│347,000.00│322,000.00│25,000.00│37.27%│    23.36│
+│$│SP36NPSB6PHAX0GTNH0MZD4SEVAQ5V3RATCJ0HKSZ│1Kiq1dyVBzYLWGrBPWjChvKyzB2H95x5RJ│ 306/312/943│32.45%│33.09%│496,680,000│510,000│335,000.00│335,000.00│312,000.00│23,000.00│32.70%│    21.50│
+│$│SP1A80Y63CPEG8JFXYCG3WQEV7HC4KBK91XYC2RC6│18hofVCQv8cMDpqDNqSXyrUDffq7MKLxiu│ 280/289/959│29.20%│30.14%│394,500,000│400,000│307,000.00│307,000.00│288,000.00│19,000.00│25.85%│    17.76│
+│$│ SP2KVQZA2FQNH90SNC9VQQQQH5ZWYANC08EZQQ14│ 1UiW61F9xnBnnC1J69aPJhFm3ZXvZEkCm│ 102/104/404│25.25%│25.74%│120,540,000│350,000│112,000.00│112,000.00│ 91,000.00│21,000.00│19.08%│    19.63│
 │ │ SP59S78VN5821KV025FWBGX0TKD70GB5PN4Y2HRD│ 1y7NdVZi1UXQ6qmbRgQ7m4WCbSGK66jXQ│     6/12/80│ 7.50%│15.00%│ 13,800,000│200,000│  6,000.00│  6,000.00│  6,000.00│         │11.30%│         │
-│ │SP25P61C1DJ3P4TMTRJWQ5HE3ESK3PBTXS1EKYT43│1Di1YoMov6Ua3gPedfQz7TkP6iTLqbPUzi│   66/74/344│19.19%│21.51%│ 51,600,000│150,000│ 80,000.00│ 80,000.00│ 80,000.00│         │10.65%│         │
-│$│SP2PDX6JQ4NN2Z7J91YJKWAAHBRHWGN5ETZ403FXH│1Gm3tiU3Rsm3pPpTnx3d3A54nug16TSWmZ│  49/111/824│ 5.95%│13.47%│  7,864,000│  2,000│ 53,000.00│ 53,000.00│ 46,000.00│ 7,000.00│ 0.72%│     6.54│
-│ │SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│ 105/146/154│68.18%│94.81%│     61,600│    400│115,000.00│115,000.00│104,000.00│11,000.00│ 2.12%│    10.28│
+│ │SP25P61C1DJ3P4TMTRJWQ5HE3ESK3PBTXS1EKYT43│1Di1YoMov6Ua3gPedfQz7TkP6iTLqbPUzi│   66/74/342│19.30%│21.64%│ 51,300,000│150,000│ 80,000.00│ 80,000.00│ 80,000.00│         │10.66%│         │
+│$│SP2PDX6JQ4NN2Z7J91YJKWAAHBRHWGN5ETZ403FXH│1Gm3tiU3Rsm3pPpTnx3d3A54nug16TSWmZ│  49/111/826│ 5.93%│13.44%│  7,868,000│  2,000│ 53,000.00│ 53,000.00│ 46,000.00│ 7,000.00│ 0.72%│     6.54│
+│$│SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│ 106/147/155│68.39%│94.84%│     62,000│    400│116,000.00│116,000.00│104,000.00│12,000.00│ 2.13%│    11.21│
 └─┴─────────────────────────────────────────┴──────────────────────────────────┴────────────┴──────┴──────┴───────────┴───────┴──────────┴──────────┴──────────┴─────────┴──────┴─────────┘
 Statistics ========================================================================================================================
-miners (last block): 5
+miners (last block): 1
 miners (overall): 274
 miners (won rewards): 8
-total commit (last block): 1,873,000 sats
+total commit (last block): 400 sats
 block reward (last block): 1,000.00 STX
 btc blocks: 1501
-empty btc blocks: 139
-actual_win_total: 1226
+empty btc blocks: 138
+actual_win_total: 1227
 orphaned blocks: 134
 incorrect blocks: 2
