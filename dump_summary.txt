@@ -17,8 +17,8 @@ miners (overall): 274
 miners (won rewards): 8
 total commit (last block): 2,000 sats
 block reward (last block): 1,000.00 STX
-btc blocks: 1502
-empty btc blocks: 129
+btc blocks: 1501
+empty btc blocks: 128
 actual_win_total: 1230
 orphaned blocks: 142
 incorrect blocks: 1
