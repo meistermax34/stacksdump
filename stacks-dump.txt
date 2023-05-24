@@ -8,8 +8,6 @@ missing consensus hash 55fa43af0cc41f3e4cc451f7f090539775f0cec4
 missing consensus hash 6ce394ce0aa26b9f32d7227e9b94f545afd8a0ad
 missing consensus hash cb350188ec8d22f6b739ed51dc699a8da9a97bf4
 missing consensus hash 55fa43af0cc41f3e4cc451f7f090539775f0cec4
-789641 1 789640 105433  1,000.00 5,225, 400 br8246 s:edfffe3cbf p:8929236be7 c:d858daae6d i:b827b97aa1 b:0000000000000000000429662     [100.0]SP2ZJCHNRQ*
-789642 ?    -            -       -        -                -            -            -            -       b:000000000000000000051d58b     
 789643 2 789641 105434  2,000.00 403,78 912,000 br8246 s:589e88f2b1 p:edfffe3cbf c:6f5d5d5e6b i:04cedea0cd b:00000000000000000005406ff     [43.9]SP1A80Y63C [0.2]SP2PDX6JQ4*[55.9]SP36NPSB6P 
 789644 4 789640 105433> 1,000.00 6,062, 1,523,000 br8248 s:74a0b4aad2 p:8929236be7 c:c457c0a774 i:ad217c2682 b:0000000000000000000046a0b     [26.3]SP1A80Y63C*[40.1]SP2DW8DZXJ [0.1]SP2PDX6JQ4 [33.5]SP36NPSB6P 
 789645 1 789644 105434> 1,000.00 2,872, 912,000 br8248 s:058f8f134c p:74a0b4aad2 c:073b069bb4 i:cdba3575ee b:0000000000000000000315945 @+  [43.9]SP1A80Y63C*[0.2]SP2PDX6JQ4 [55.9]SP36NPSB6P 
@@ -1509,26 +1507,28 @@ missing consensus hash 55fa43af0cc41f3e4cc451f7f090539775f0cec4
 791139 1 791138 106698> 1,000.00 1,840, 2,000 br8339 s:2974008f08 p:6dec65eac7 c:845bd1440b i:ba989304db b:0000000000000000000241342 @@  [100.0]SP2PDX6JQ4*
 791140 1 791139 106699> 1,000.00 2,646, 1,363,000 br8339 s:0b6e522763 p:2974008f08 c:61cf472038 i:b86c39d747 b:00000000000000000004dbd61 @@  [29.3]SP1A80Y63C [44.8]SP2DW8DZXJ [25.7]SP2KVQZA2F*[0.1]SP2PDX6JQ4 
 791141 1 791140 106700> 1,000.00 5,985, 1,873,000 br8339 s:c29f6cc225 p:0b6e522763 c:81cba05661 i:519fd6ff08 b:00000000000000000005117e9 @@  [21.4]SP1A80Y63C*[32.6]SP2DW8DZXJ [18.7]SP2KVQZA2F [0.1]SP2PDX6JQ4 [27.2]SP36NPSB6P 
+791142 1 791141 106701> 1,000.00 2,056, 1,873,000 br8339 s:00860b004f p:c29f6cc225 c:30a8a0ce68 i:018071ee6c b:0000000000000000000209411 @@  [21.4]SP1A80Y63C [32.6]SP2DW8DZXJ*[18.7]SP2KVQZA2F [0.1]SP2PDX6JQ4 [27.2]SP36NPSB6P 
+791143 1 791142 106702> 1,000.00 331,09 400 br8339 s:6b32438f14 p:00860b004f c:4ead2cd47f i:ca2f363cdf b:00000000000000000001859de @@  [100.0]SP2ZJCHNRQ*
 ┌─┬─────────────────────────────────────────┬──────────────────────────────────┬────────────┬──────┬──────┬───────────┬───────┬──────────┬──────────┬──────────┬─────────┬──────┬─────────┐
 │ │                              STX address│                       BTC address│actual wins/│actual│ won %│       paid│   last│  lifetime│   rewards│   matured│  pending│ theo.│ share of│
 │ │                                         │                                  │ total wins/│ win %│      │   satoshis│   paid│   rewards│          │   rewards│  rewards│ win %│ pending │
 │ │                                         │                                  │ total mined│      │      │           │       │          │          │          │         │      │rewards %│
-│$│SP2DW8DZXJCYDEVX0NN9R1A203GWHCSMGBQS3A64X│1FCcoFSKWvNyhjazNvVdLLw8mGkGdcRMux│ 305/307/886│34.42%│34.65%│541,346,000│611,000│331,000.00│331,000.00│311,000.00│20,000.00│35.27%│    18.69│
-│$│SP36NPSB6PHAX0GTNH0MZD4SEVAQ5V3RATCJ0HKSZ│1Kiq1dyVBzYLWGrBPWjChvKyzB2H95x5RJ│ 292/295/913│31.98%│32.31%│465,630,000│510,000│319,000.00│319,000.00│296,000.00│23,000.00│30.00%│    21.50│
-│$│SP1A80Y63CPEG8JFXYCG3WQEV7HC4KBK91XYC2RC6│18hofVCQv8cMDpqDNqSXyrUDffq7MKLxiu│ 222/224/925│24.00%│24.22%│370,000,000│400,000│242,000.00│242,000.00│223,000.00│19,000.00│23.68%│    17.76│
-│$│ SP2KVQZA2FQNH90SNC9VQQQQH5ZWYANC08EZQQ14│ 1UiW61F9xnBnnC1J69aPJhFm3ZXvZEkCm│ 234/237/909│25.74%│26.07%│297,290,000│350,000│248,000.00│248,000.00│222,000.00│26,000.00│20.37%│    24.30│
+│$│SP2DW8DZXJCYDEVX0NN9R1A203GWHCSMGBQS3A64X│1FCcoFSKWvNyhjazNvVdLLw8mGkGdcRMux│ 306/308/887│34.50%│34.72%│541,957,000│611,000│332,000.00│332,000.00│311,000.00│21,000.00│35.26%│    19.63│
+│$│SP36NPSB6PHAX0GTNH0MZD4SEVAQ5V3RATCJ0HKSZ│1Kiq1dyVBzYLWGrBPWjChvKyzB2H95x5RJ│ 292/295/914│31.95%│32.28%│466,140,000│510,000│319,000.00│319,000.00│297,000.00│22,000.00│29.99%│    20.56│
+│$│SP1A80Y63CPEG8JFXYCG3WQEV7HC4KBK91XYC2RC6│18hofVCQv8cMDpqDNqSXyrUDffq7MKLxiu│ 222/224/926│23.97%│24.19%│370,400,000│400,000│242,000.00│242,000.00│223,000.00│19,000.00│23.68%│    17.76│
+│$│ SP2KVQZA2FQNH90SNC9VQQQQH5ZWYANC08EZQQ14│ 1UiW61F9xnBnnC1J69aPJhFm3ZXvZEkCm│ 234/237/910│25.71%│26.04%│297,640,000│350,000│248,000.00│248,000.00│222,000.00│26,000.00│20.37%│    24.30│
 │ │ SP59S78VN5821KV025FWBGX0TKD70GB5PN4Y2HRD│ 1y7NdVZi1UXQ6qmbRgQ7m4WCbSGK66jXQ│      2/4/36│ 5.56%│11.11%│  7,200,000│200,000│  2,000.00│  2,000.00│  2,000.00│         │12.46%│         │
-│$│SP2PDX6JQ4NN2Z7J91YJKWAAHBRHWGN5ETZ403FXH│1Gm3tiU3Rsm3pPpTnx3d3A54nug16TSWmZ│ 85/154/1198│ 7.10%│12.85%│  2,396,000│  2,000│ 90,000.00│ 90,000.00│ 80,000.00│10,000.00│ 0.14%│     9.35│
-│ │SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│ 128/173/184│69.57%│94.02%│     73,600│    400│135,000.00│135,000.00│126,000.00│ 9,000.00│ 2.01%│     8.41│
+│$│SP2PDX6JQ4NN2Z7J91YJKWAAHBRHWGN5ETZ403FXH│1Gm3tiU3Rsm3pPpTnx3d3A54nug16TSWmZ│ 85/154/1199│ 7.09%│12.84%│  2,398,000│  2,000│ 90,000.00│ 90,000.00│ 81,000.00│ 9,000.00│ 0.14%│     8.41│
+│$│SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│ 129/173/184│70.11%│94.02%│     73,600│    400│136,000.00│136,000.00│126,000.00│10,000.00│ 2.01%│     9.35│
 └─┴─────────────────────────────────────────┴──────────────────────────────────┴────────────┴──────┴──────┴───────────┴───────┴──────────┴──────────┴──────────┴─────────┴──────┴─────────┘
 Statistics ========================================================================================================================
-miners (last block): 5
+miners (last block): 1
 miners (overall): 274
 miners (won rewards): 7
-total commit (last block): 1,873,000 sats
+total commit (last block): 400 sats
 block reward (last block): 1,000.00 STX
 btc blocks: 1501
-empty btc blocks: 107
-actual_win_total: 1268
-orphaned blocks: 126
+empty btc blocks: 106
+actual_win_total: 1270
+orphaned blocks: 125
 incorrect blocks: 0
