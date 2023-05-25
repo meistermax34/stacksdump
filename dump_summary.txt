@@ -2,10 +2,10 @@
 │ │                              STX address│                       BTC address│actual wins/│actual│ won %│       paid│   last│  lifetime│   rewards│   matured│  pending│ theo.│ share of│
 │ │                                         │                                  │ total wins/│ win %│      │   satoshis│   paid│   rewards│          │   rewards│  rewards│ win %│ pending │
 │ │                                         │                                  │ total mined│      │      │           │       │          │          │          │         │      │rewards %│
-│$│SP2DW8DZXJCYDEVX0NN9R1A203GWHCSMGBQS3A64X│1FCcoFSKWvNyhjazNvVdLLw8mGkGdcRMux│ 297/299/884│33.60%│33.82%│540,124,000│611,000│318,000.00│318,000.00│297,000.00│21,000.00│34.83%│    19.44│
-│$│SP36NPSB6PHAX0GTNH0MZD4SEVAQ5V3RATCJ0HKSZ│1Kiq1dyVBzYLWGrBPWjChvKyzB2H95x5RJ│ 289/291/914│31.62%│31.84%│466,140,000│510,000│314,000.00│314,000.00│290,000.00│24,000.00│29.66%│    22.22│
-│$│SP1A80Y63CPEG8JFXYCG3WQEV7HC4KBK91XYC2RC6│18hofVCQv8cMDpqDNqSXyrUDffq7MKLxiu│ 220/222/925│23.78%│24.00%│370,004,000│400,000│240,000.00│240,000.00│220,000.00│20,000.00│23.40%│    18.52│
-│$│ SP2KVQZA2FQNH90SNC9VQQQQH5ZWYANC08EZQQ14│ 1UiW61F9xnBnnC1J69aPJhFm3ZXvZEkCm│ 256/259/992│25.81%│26.11%│326,340,000│350,000│273,000.00│273,000.00│249,000.00│24,000.00│20.45%│    22.22│
+│$│SP2DW8DZXJCYDEVX0NN9R1A203GWHCSMGBQS3A64X│1FCcoFSKWvNyhjazNvVdLLw8mGkGdcRMux│ 297/299/885│33.56%│33.79%│540,735,000│611,000│318,000.00│318,000.00│298,000.00│20,000.00│34.83%│    18.52│
+│$│SP36NPSB6PHAX0GTNH0MZD4SEVAQ5V3RATCJ0HKSZ│1Kiq1dyVBzYLWGrBPWjChvKyzB2H95x5RJ│ 289/291/914│31.62%│31.84%│466,140,000│510,000│314,000.00│314,000.00│289,000.00│25,000.00│29.65%│    23.15│
+│$│SP1A80Y63CPEG8JFXYCG3WQEV7HC4KBK91XYC2RC6│18hofVCQv8cMDpqDNqSXyrUDffq7MKLxiu│ 220/222/925│23.78%│24.00%│370,004,000│400,000│240,000.00│240,000.00│220,000.00│20,000.00│23.39%│    18.52│
+│$│ SP2KVQZA2FQNH90SNC9VQQQQH5ZWYANC08EZQQ14│ 1UiW61F9xnBnnC1J69aPJhFm3ZXvZEkCm│ 256/259/993│25.78%│26.08%│326,690,000│350,000│273,000.00│273,000.00│249,000.00│24,000.00│20.45%│    22.22│
 │$│SP2PDX6JQ4NN2Z7J91YJKWAAHBRHWGN5ETZ403FXH│1Gm3tiU3Rsm3pPpTnx3d3A54nug16TSWmZ│ 83/154/1203│ 6.90%│12.80%│  2,406,000│  2,000│ 88,000.00│ 88,000.00│ 82,000.00│ 6,000.00│ 0.14%│     5.56│
 │$│SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│ 126/173/183│68.85%│94.54%│     73,200│    400│133,000.00│133,000.00│120,000.00│13,000.00│ 2.09%│    12.04│
 └─┴─────────────────────────────────────────┴──────────────────────────────────┴────────────┴──────┴──────┴───────────┴───────┴──────────┴──────────┴──────────┴─────────┴──────┴─────────┘
