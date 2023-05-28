@@ -1,3 +1,4 @@
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1358    0  1358    0     0   6497      0 --:--:-- --:--:-- --:--:--  6466100  1358    0  1358    0     0   6466      0 --:--:-- --:--:-- --:--:--  6466
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (7) Failed to connect to seed-1.mainnet.stacks.co port 20443: Connection refused
