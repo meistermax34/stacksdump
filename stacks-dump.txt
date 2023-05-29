@@ -8,7 +8,6 @@ missing consensus hash 55fa43af0cc41f3e4cc451f7f090539775f0cec4
 missing consensus hash 6ce394ce0aa26b9f32d7227e9b94f545afd8a0ad
 missing consensus hash cb350188ec8d22f6b739ed51dc699a8da9a97bf4
 missing consensus hash 55fa43af0cc41f3e4cc451f7f090539775f0cec4
-790446 2 790444 106092  1,000.00 7,283, 2,400 br8309 s:6097f565ff p:b6a68dc14d c:5e69db0d83 i:0303e9386e b:00000000000000000004d48b5     [83.3]SP2PDX6JQ4*[16.7]SP2ZJCHNRQ 
 790447 ?    -            -       -        -                -            -            -            -       b:00000000000000000001a16e3     
 790448 2 790446 106093  2,000.00 8,640, 400 br8309 s:84c6e4bd6a p:6097f565ff c:87ee341c63 i:4ea649ff6e b:0000000000000000000011836     [100.0]SP2ZJCHNRQ*
 790449 4 790445 106093> 1,000.00 0      1,262,000 br8308 s:269e9db027 p:c8a0397573 c:ef411144e0 i:4e43314ba3 b:00000000000000000004a1a26     [31.7]SP1A80Y63C [27.7]SP2KVQZA2F [0.2]SP2PDX6JQ4 [40.4]SP36NPSB6P*
@@ -1519,8 +1518,8 @@ missing consensus hash 55fa43af0cc41f3e4cc451f7f090539775f0cec4
 │$│SP1A80Y63CPEG8JFXYCG3WQEV7HC4KBK91XYC2RC6│18hofVCQv8cMDpqDNqSXyrUDffq7MKLxiu│ 202/203/924│21.86%│21.97%│369,604,000│400,000│218,000.00│218,000.00│195,000.00│23,000.00│22.47%│    21.30│
 │$│ SP2KVQZA2FQNH90SNC9VQQQQH5ZWYANC08EZQQ14│ 1UiW61F9xnBnnC1J69aPJhFm3ZXvZEkCm│296/297/1045│28.33%│28.42%│365,750,000│350,000│312,000.00│312,000.00│291,000.00│21,000.00│20.96%│    19.44│
 │$│SP25P61C1DJ3P4TMTRJWQ5HE3ESK3PBTXS1EKYT43│1Di1YoMov6Ua3gPedfQz7TkP6iTLqbPUzi│   37/45/283│13.07%│15.90%│ 42,450,000│150,000│ 37,000.00│ 37,000.00│ 26,000.00│11,000.00│ 8.61%│    10.19│
-│$│SP2PDX6JQ4NN2Z7J91YJKWAAHBRHWGN5ETZ403FXH│1Gm3tiU3Rsm3pPpTnx3d3A54nug16TSWmZ│102/148/1207│ 8.45%│12.26%│  2,414,000│  2,000│110,000.00│110,000.00│106,000.00│ 4,000.00│ 0.14%│     3.70│
-│$│SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│ 126/180/185│68.11%│97.30%│     74,000│    400│129,000.00│129,000.00│117,000.00│12,000.00│ 6.28%│    11.11│
+│$│SP2PDX6JQ4NN2Z7J91YJKWAAHBRHWGN5ETZ403FXH│1Gm3tiU3Rsm3pPpTnx3d3A54nug16TSWmZ│102/147/1206│ 8.46%│12.19%│  2,412,000│  2,000│110,000.00│110,000.00│106,000.00│ 4,000.00│ 0.14%│     3.70│
+│$│SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│ 126/180/184│68.48%│97.83%│     73,600│    400│129,000.00│129,000.00│117,000.00│12,000.00│ 6.26%│    11.11│
 └─┴─────────────────────────────────────────┴──────────────────────────────────┴────────────┴──────┴──────┴───────────┴───────┴──────────┴──────────┴──────────┴─────────┴──────┴─────────┘
 Statistics ========================================================================================================================
 miners (last block): 6
@@ -1528,8 +1527,8 @@ miners (overall): 274
 miners (won rewards): 7
 total commit (last block): 2,023,000 sats
 block reward (last block): 1,000.00 STX
-btc blocks: 1502
+btc blocks: 1501
 empty btc blocks: 92
 actual_win_total: 1297
-orphaned blocks: 112
+orphaned blocks: 111
 incorrect blocks: 1
