@@ -2,8 +2,8 @@
 │ │                              STX address│                       BTC address│actual wins/│actual│ won %│       paid│   last│  lifetime│   rewards│   matured│  pending│ theo.│ share of│
 │ │                                         │                                  │ total wins/│ win %│      │   satoshis│   paid│   rewards│          │   rewards│  rewards│ win %│ pending │
 │ │                                         │                                  │ total mined│      │      │           │       │          │          │          │         │      │rewards %│
-│$│SP2DW8DZXJCYDEVX0NN9R1A203GWHCSMGBQS3A64X│1FCcoFSKWvNyhjazNvVdLLw8mGkGdcRMux│ 261/264/870│30.00%│30.34%│531,570,000│611,000│273,000.00│273,000.00│251,000.00│22,000.00│33.61%│    20.75│
-│$│SP36NPSB6PHAX0GTNH0MZD4SEVAQ5V3RATCJ0HKSZ│1Kiq1dyVBzYLWGrBPWjChvKyzB2H95x5RJ│ 242/243/881│27.47%│27.58%│449,310,000│510,000│262,000.00│262,000.00│239,000.00│23,000.00│28.38%│    21.70│
+│$│SP2DW8DZXJCYDEVX0NN9R1A203GWHCSMGBQS3A64X│1FCcoFSKWvNyhjazNvVdLLw8mGkGdcRMux│ 260/263/870│29.89%│30.23%│531,570,000│611,000│272,000.00│272,000.00│251,000.00│21,000.00│33.61%│    19.81│
+│$│SP36NPSB6PHAX0GTNH0MZD4SEVAQ5V3RATCJ0HKSZ│1Kiq1dyVBzYLWGrBPWjChvKyzB2H95x5RJ│ 243/244/881│27.58%│27.70%│449,310,000│510,000│263,000.00│263,000.00│239,000.00│24,000.00│28.38%│    22.64│
 │$│SP1A80Y63CPEG8JFXYCG3WQEV7HC4KBK91XYC2RC6│18hofVCQv8cMDpqDNqSXyrUDffq7MKLxiu│ 196/197/893│21.95%│22.06%│357,204,000│400,000│210,000.00│210,000.00│195,000.00│15,000.00│22.48%│    14.15│
 │$│ SP2KVQZA2FQNH90SNC9VQQQQH5ZWYANC08EZQQ14│ 1UiW61F9xnBnnC1J69aPJhFm3ZXvZEkCm│311/312/1027│30.28%│30.38%│359,450,000│350,000│333,000.00│333,000.00│302,000.00│31,000.00│21.04%│    29.25│
 │ │SP25P61C1DJ3P4TMTRJWQ5HE3ESK3PBTXS1EKYT43│1Di1YoMov6Ua3gPedfQz7TkP6iTLqbPUzi│   56/66/378│14.81%│17.46%│ 56,700,000│150,000│ 62,000.00│ 62,000.00│ 62,000.00│         │ 8.94%│         │
@@ -11,13 +11,13 @@
 │$│SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│ 123/180/190│64.74%│94.74%│     76,000│    400│126,000.00│126,000.00│115,000.00│11,000.00│ 2.37%│    10.38│
 └─┴─────────────────────────────────────────┴──────────────────────────────────┴────────────┴──────┴──────┴───────────┴───────┴──────────┴──────────┴──────────┴─────────┴──────┴─────────┘
 Statistics ========================================================================================================================
-miners (last block): 1
+miners (last block): 0
 miners (overall): 274
 miners (won rewards): 7
-total commit (last block): 400 sats
-block reward (last block): 1,000.00 STX
-btc blocks: 1501
-empty btc blocks: 93
+total commit (last block): 0 sats
+block reward (last block): 0.00 STX
+btc blocks: 1502
+empty btc blocks: 94
 actual_win_total: 1283
 orphaned blocks: 124
 incorrect blocks: 1
