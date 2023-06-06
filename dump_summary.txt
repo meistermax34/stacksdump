@@ -8,7 +8,7 @@
 │$│ SP2KVQZA2FQNH90SNC9VQQQQH5ZWYANC08EZQQ14│ 1UiW61F9xnBnnC1J69aPJhFm3ZXvZEkCm│321/324/1042│30.81%│31.09%│364,700,000│350,000│355,000.00│355,000.00│325,000.00│30,000.00│21.24%│    28.57│
 │ │SP25P61C1DJ3P4TMTRJWQ5HE3ESK3PBTXS1EKYT43│1Di1YoMov6Ua3gPedfQz7TkP6iTLqbPUzi│   42/50/289│14.53%│17.30%│ 43,350,000│150,000│ 48,000.00│ 48,000.00│ 48,000.00│         │ 9.13%│         │
 │$│SP2PDX6JQ4NN2Z7J91YJKWAAHBRHWGN5ETZ403FXH│1Gm3tiU3Rsm3pPpTnx3d3A54nug16TSWmZ│ 69/137/1207│ 5.72%│11.35%│  2,414,000│  2,000│ 69,000.00│ 69,000.00│ 61,000.00│ 8,000.00│ 0.14%│     7.62│
-│ │SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│ 102/173/190│53.68%│91.05%│     76,000│    400│103,000.00│103,000.00│100,000.00│ 3,000.00│ 1.95%│     2.86│
+│ │SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│ 101/172/189│53.44%│91.01%│     75,600│    400│102,000.00│102,000.00│ 99,000.00│ 3,000.00│ 1.94%│     2.86│
 └─┴─────────────────────────────────────────┴──────────────────────────────────┴────────────┴──────┴──────┴───────────┴───────┴──────────┴──────────┴──────────┴─────────┴──────┴─────────┘
 Statistics ========================================================================================================================
 miners (last block): 2
@@ -16,8 +16,8 @@ miners (overall): 274
 miners (won rewards): 7
 total commit (last block): 613,000 sats
 block reward (last block): 1,000.00 STX
-btc blocks: 1502
+btc blocks: 1501
 empty btc blocks: 100
-actual_win_total: 1247
+actual_win_total: 1246
 orphaned blocks: 152
 incorrect blocks: 3
