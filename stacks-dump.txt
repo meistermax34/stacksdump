@@ -11,7 +11,6 @@ missing consensus hash 6ce394ce0aa26b9f32d7227e9b94f545afd8a0ad
 missing consensus hash cb350188ec8d22f6b739ed51dc699a8da9a97bf4
 missing consensus hash 55fa43af0cc41f3e4cc451f7f090539775f0cec4
 missing consensus hash 695a5fca541f4db4275cf7f7adcd6594c4b13a68
-792101 ?    -            -       -        -                -            -            -            -       b:0000000000000000000581a4a     
 792102 2 792100 107517> 2,000.00 2,475, 1,873,000 br8401 s:11c27ca8fb p:7584086080 c:2b47daae93 i:6aa2a79db9 b:000000000000000000028ed60     [21.4]SP1A80Y63C [32.6]SP2DW8DZXJ [18.7]SP2KVQZA2F [0.1]SP2PDX6JQ4 [27.2]SP36NPSB6P*
 792103 1 792102 107518> 1,000.00 1,934, 1,873,000 br8401 s:f8d3fab616 p:11c27ca8fb c:20532d28ad i:025d34e2d3 b:0000000000000000000130ef5 @@  [21.4]SP1A80Y63C [32.6]SP2DW8DZXJ*[18.7]SP2KVQZA2F [0.1]SP2PDX6JQ4 [27.2]SP36NPSB6P 
 792104 1 792103 107519  1,000.00 952,25 2,000 br8401 s:d58ba34ac7 p:f8d3fab616 c:d3ab6f43fd i:061c9cbf95 b:00000000000000000003c05dc @@  [100.0]SP2PDX6JQ4*
@@ -1531,8 +1530,8 @@ miners (overall): 275
 miners (won rewards): 7
 total commit (last block): 802,000 sats
 block reward (last block): 1,000.00 STX
-btc blocks: 1502
-empty btc blocks: 89
+btc blocks: 1501
+empty btc blocks: 88
 actual_win_total: 1242
 orphaned blocks: 168
 incorrect blocks: 3
