@@ -7,10 +7,12 @@ missing consensus hash 6ce394ce0aa26b9f32d7227e9b94f545afd8a0ad
 missing consensus hash cb350188ec8d22f6b739ed51dc699a8da9a97bf4
 missing consensus hash 55fa43af0cc41f3e4cc451f7f090539775f0cec4
 missing consensus hash 695a5fca541f4db4275cf7f7adcd6594c4b13a68
+missing consensus hash 69cdfce57be2732db358e166cc5db172fc3b7c78
 missing consensus hash 6ce394ce0aa26b9f32d7227e9b94f545afd8a0ad
 missing consensus hash cb350188ec8d22f6b739ed51dc699a8da9a97bf4
 missing consensus hash 55fa43af0cc41f3e4cc451f7f090539775f0cec4
 missing consensus hash 695a5fca541f4db4275cf7f7adcd6594c4b13a68
+missing consensus hash 69cdfce57be2732db358e166cc5db172fc3b7c78
 793009 2 793007 108276> 1,000.00 0      412,000 br8472 s:eba7c89096 p:5cdb68b531 c:21e78fb9b0 i:2d9d5836be b:000000000000000000024c31a     [0.5]SP2PDX6JQ4 [99.5]SP36NPSB6P*
 793010 1 793009 108277> 1,000.00 5,341, 1,773,000 br8472 s:f94a1aec0e p:eba7c89096 c:379739679a i:e014042e47 b:00000000000000000005678b5 @@  [22.6]SP1A80Y63C [34.5]SP2DW8DZXJ*[19.7]SP2KVQZA2F [0.1]SP2PDX6JQ4 [23.1]SP36NPSB6P 
 793011 1 793010 108278> 1,000.00 202,23 1,373,000 br8472 s:9ba852aa30 p:f94a1aec0e c:f3ad0c9f01 i:c186a335b1 b:0000000000000000000419071 @+  [44.5]SP2DW8DZXJ*[25.5]SP2KVQZA2F [0.1]SP2PDX6JQ4 [29.9]SP36NPSB6P 
